@@ -1,0 +1,261 @@
+{
+   "timetable":[
+      {
+         "id":1
+      },
+      {
+         "id":2
+      }
+   ],
+   "deadline":[
+       {
+           "id":1
+       },
+       {
+           "id":2
+       }
+   ],
+   "schedule":[
+      {
+         "day":"1",
+         "timetableId":1,
+         "timeSlot":[
+            {
+               "timeStart":"12:35",
+               "timeEnd":"13:55",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            },
+            {
+               "timeStart":"1230",
+               "timeEnd":"1350",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            },
+            {
+               "timeStart":"12:30",
+               "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            },
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            }
+         ]
+      },
+      {
+         "day":"2",
+         "timetableId":1,
+         "timeSlot":[
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            },
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            },
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            }
+         ]
+      },
+      {
+         "day":"3",
+         "timetableId":1,
+         "timeSlot":[
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            },
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            }
+         ]
+      },
+      {
+         "day":"4",
+         "timetableId":1,
+         "timeSlot":[
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            },
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            }
+         ]
+      },
+      {
+         "day":"5",
+         "timetableId":1,
+         "timeSlot":[
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            },
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:55",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            }
+         ]
+      },
+      {
+         "day":"1",
+         "timetableId":2,
+         "timeSlot":[
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            },
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            }
+         ]
+      },
+      {
+         "day":"2",
+         "timetableId":3,
+         "timeSlot":[
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            },
+            {
+                "timeStart":"12:30",
+                "timeEnd":"13:50",
+               "type":"Lecture",
+               "subjectName":"Machiene Learning",
+               "visitType":"Online"
+            }
+         ]
+      }
+   ],
+   "deadlines" : [
+       {
+           "day":"1",
+           "deadlineId": 1,
+           "assignments": [
+               {
+                   "subjectName": "Machine Learning",
+                   "assigmentName": "HW 14: Venuse and Mars",
+                   "deadlineTime": "Till 23:59",
+                   "sumbisionTIme": "Submited at 00:00"
+               },
+               {
+                   "subjectName": "Machine Learning",
+                   "assigmentName": "HW 15: Venuse and Mars",
+                   "deadlineTime": "Till 23:59",
+                   "sumbisionTIme": "Submited at 00:00"
+               }
+           ]
+       },
+       {
+           "day":"2",
+           "deadlineId": 1,
+           "assignments": [
+               {
+                   "subjectName": "Machine Learning",
+                   "assigmentName": "HW 14: Venuse and Mars",
+                   "deadlineTime": "Till 23:59",
+                   "sumbisionTIme": "Submited at 00:00"
+               },
+               {
+                   "subjectName": "Machine Learning",
+                   "assigmentName": "HW 15: Venuse and Mars",
+                   "deadlineTime": "Till 23:59",
+                   "sumbisionTIme": "not submitted"
+               }
+           ]
+       },
+       {
+           "day":"3",
+           "deadlineId": 1,
+           "assignments": [
+               {
+                   "subjectName": "Machine Learning",
+                   "assigmentName": "HW 14: Venuse and Mars",
+                   "deadlineTime": "Till 11:59",
+                   "sumbisionTIme": "Submited at 00:00"
+               },
+               {
+                   "subjectName": "Machine Learning",
+                   "assigmentName": "HW 15: Venuse and Mars",
+                   "deadlineTime": "Till 23:59",
+                   "sumbisionTIme": "Submited at 00:00"
+               }
+           ]
+       },
+       {
+           "day":"4",
+           "deadlineId": 1,
+           "assignments": [
+               {
+                   "subjectName": "Machine Learning",
+                   "assigmentName": "HW 15: Venuse and Mars",
+                   "deadlineTime": "Till 23:59",
+                   "sumbisionTIme": "Submited at 00:00"
+               }
+           ]
+       },
+       {
+           "day":"5",
+           "deadlineId": 1,
+           "assignments": [
+               {
+                   "subjectName": "Machine Learning",
+                   "assigmentName": "HW 14: Venuse and Mars",
+                   "deadlineTime": "Till 23:59",
+                   "sumbisionTIme": "Submited at 00:00"
+               }
+           ]
+       }
+   ]
+}
