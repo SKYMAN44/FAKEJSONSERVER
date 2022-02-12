@@ -13,6 +13,7 @@
          "timetableId":1,
          "timeSlot":[
             {
+               "id"=1,
                "timeStart":"12:35",
                "timeEnd":"13:55",
                "type":"Lecture",
@@ -20,6 +21,7 @@
                "visitType":"Online"
             },
             {
+               "id"=2,
                "timeStart":"1230",
                "timeEnd":"1350",
                "type":"Lecture",
@@ -27,6 +29,7 @@
                "visitType":"Online"
             },
             {
+               "id"=3,
                "timeStart":"12:30",
                "timeEnd":"13:50",
                "type":"Lecture",
@@ -34,6 +37,7 @@
                "visitType":"Online"
             },
             {
+               "id"=4,
                 "timeStart":"12:30",
                 "timeEnd":"13:50",
                "type":"Lecture",
@@ -47,6 +51,7 @@
          "timetableId":1,
          "timeSlot":[
             {
+               "id"=5,
                 "timeStart":"12:30",
                 "timeEnd":"13:50",
                "type":"Lecture",
@@ -54,6 +59,7 @@
                "visitType":"Online"
             },
             {
+               "id"=6,
                 "timeStart":"12:30",
                 "timeEnd":"13:50",
                "type":"Lecture",
@@ -61,6 +67,7 @@
                "visitType":"Online"
             },
             {
+               "id"=7,
                 "timeStart":"12:30",
                 "timeEnd":"13:50",
                "type":"Lecture",
@@ -74,6 +81,7 @@
          "timetableId":1,
          "timeSlot":[
             {
+               "id"=8,
                 "timeStart":"12:30",
                 "timeEnd":"13:50",
                "type":"Lecture",
@@ -81,6 +89,7 @@
                "visitType":"Online"
             },
             {
+               "id"=9,
                 "timeStart":"12:30",
                 "timeEnd":"13:50",
                "type":"Lecture",
@@ -94,6 +103,7 @@
          "timetableId":1,
          "timeSlot":[
             {
+               "id"=10,
                 "timeStart":"12:30",
                 "timeEnd":"13:50",
                "type":"Lecture",
@@ -101,6 +111,7 @@
                "visitType":"Online"
             },
             {
+               "id"=11,
                 "timeStart":"12:30",
                 "timeEnd":"13:50",
                "type":"Lecture",
@@ -114,6 +125,7 @@
          "timetableId":1,
          "timeSlot":[
             {
+               "id"=12,
                 "timeStart":"12:30",
                 "timeEnd":"13:50",
                "type":"Lecture",
@@ -121,6 +133,7 @@
                "visitType":"Online"
             },
             {
+               "id"=13,
                 "timeStart":"12:30",
                 "timeEnd":"13:55",
                "type":"Lecture",
@@ -134,6 +147,7 @@
          "timetableId":2,
          "timeSlot":[
             {
+               "id"=14,
                 "timeStart":"12:30",
                 "timeEnd":"13:50",
                "type":"Lecture",
@@ -141,6 +155,7 @@
                "visitType":"Online"
             },
             {
+               "id"=15,
                 "timeStart":"12:30",
                 "timeEnd":"13:50",
                "type":"Lecture",
@@ -154,6 +169,7 @@
          "timetableId":3,
          "timeSlot":[
             {
+               "id"=16,
                 "timeStart":"12:30",
                 "timeEnd":"13:50",
                "type":"Lecture",
@@ -161,6 +177,7 @@
                "visitType":"Online"
             },
             {
+               "id"=7,
                 "timeStart":"12:30",
                 "timeEnd":"13:50",
                "type":"Lecture",
@@ -184,18 +201,21 @@
            "deadlineId": 1,
            "assignments": [
                {
+                  "id"=1,
                    "subjectName": "Machine Learning",
                    "assigmentName": "HW 14: Venuse and Mars",
                    "deadlineTime": "Till 23:59",
                    "sumbisionTIme": "Submited at 00:00"
                },
                {
+                  "id"=2,
                    "subjectName": "Machine Learning",
                    "assigmentName": "HW 15: Venuse and Mars",
                    "deadlineTime": "Till 23:59",
                    "sumbisionTIme": "Submited at 00:00"
                },
               {
+                 "id"=3,
                    "subjectName": "Machine Learning",
                    "assigmentName": "HW 16: Venuse and Mars",
                    "deadlineTime": "Till 23:59",
@@ -208,12 +228,14 @@
            "deadlineId": 1,
            "assignments": [
                {
+                  "id"=4,
                    "subjectName": "Machine Learning",
                    "assigmentName": "HW 14: Venuse and Mars",
                    "deadlineTime": "Till 23:59",
                    "sumbisionTIme": "Submited at 00:00"
                },
                {
+                  "id"=5,
                    "subjectName": "Machine Learning",
                    "assigmentName": "HW 15: Venuse and Mars",
                    "deadlineTime": "Till 23:59",
@@ -226,12 +248,14 @@
            "deadlineId": 1,
            "assignments": [
                {
+                    "id"=6,
                    "subjectName": "Machine Learning",
                    "assigmentName": "HW 14: Venuse and Mars",
                    "deadlineTime": "Till 11:59",
                    "sumbisionTIme": "Submited at 00:00"
                },
                {
+                  "id"=7,
                    "subjectName": "Machine Learning",
                    "assigmentName": "HW 15: Venuse and Mars",
                    "deadlineTime": "Till 23:59",
@@ -244,6 +268,7 @@
            "deadlineId": 1,
            "assignments": [
                {
+                  "id"=8,
                    "subjectName": "Machine Learning",
                    "assigmentName": "HW 15: Venuse and Mars",
                    "deadlineTime": "Till 23:59",
@@ -256,6 +281,7 @@
            "deadlineId": 1,
            "assignments": [
                {
+                  "id"=9,
                    "subjectName": "Machine Learning",
                    "assigmentName": "HW 14: Venuse and Mars",
                    "deadlineTime": "Till 23:59",
