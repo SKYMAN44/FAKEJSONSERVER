@@ -23,7 +23,7 @@
             {
                "id":2,
                "timeStart":"1230",
-               "timeEnd":"1350",
+               "timeEnd":"1351",
                "type":"Lecture",
                "subjectName":"Machine Learning",
                "visitType":"Online"
